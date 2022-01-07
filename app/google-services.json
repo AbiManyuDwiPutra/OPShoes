@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "402062765027",
+    "firebase_url": "https://opshoes-793ef-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "opshoes-793ef",
+    "storage_bucket": "opshoes-793ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402062765027:android:8f01bea76dae864b6b4ed6",
+        "android_client_info": {
+          "package_name": "com.abim.opshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402062765027-mkqega6nb8c3m7gamacvosfc1j0ds3v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8OTwXGc5E5_T8Q9hku6wFbQCgXdDAVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402062765027-mkqega6nb8c3m7gamacvosfc1j0ds3v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
